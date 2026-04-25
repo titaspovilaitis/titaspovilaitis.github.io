@@ -316,3 +316,53 @@ strong {
 .photo-grid img:hover {
   opacity: 0.85;
 }
+
+@media (max-width: 768px) {
+
+  /* ── Stack columns vertically on mobile ── */
+  .columns {
+    flex-direction: column !important;
+  }
+
+  .column {
+    width: 100% !important;
+  }
+
+  /* ── Sidebar no longer sticky on mobile ── */
+  #sidebar {
+    position: relative !important;
+    top: 0 !important;
+    text-align: center;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #e0e0e0;
+    margin-bottom: 1.5rem;
+  }
+
+  /* ── Center photo on mobile ── */
+  #sidebar img {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  /* ── Center sidebar links on mobile ── */
+  .sidebar-links {
+    text-align: left;
+    display: inline-block;
+  }
+
+  /* ── Photo grid 2 columns instead of 3 on mobile ── */
+  .photo-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+
+  /* ── Album grid 1 column on mobile ── */
+  .album-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  /* ── Reduce font sizes slightly ── */
+  .navbar-brand {
+    font-size: 1.1rem !important;
+  }
+
+}
