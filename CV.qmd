@@ -1,0 +1,80 @@
+<div class="page-title-block">
+# CV
+</div>
+
+<a href="CV_Povilaitis.pdf" class="cv-button">**Download my CV**</a>
+
+## Education
+
+**Sciences Po Paris** <br>
+*MRes in Economics (School of Research)* · 2024 – 2026 (expected) <br>
+Relevant Coursework: PhD-level Microeconomics, Macroeconomics, Econometrics
+
+**Massachusetts Institute of Technology (MIT)** <br>
+*Exchange Program, B.A. in Economics and Sociology* · 2023 – 2024
+
+**Sciences Po Paris** <br>
+*B.A. in Economics and Sociology* · 2021 – 2023
+*Cum Laude*
+
+
+## Research Experience
+
+**MRes Thesis, Sciences Po** · May 2026 <br>
+*“Sărac Lipit Pământului”: Land Restitution, Political Capture and the Fiscal Zombie in Rural Romania.* <br>
+Supervisor: Julia Cagé. Jury Member: Ekaterina Zhuravskaya.
+
+**Massachusetts Institute of Technology (MIT), Department of Economics** · Sep 2023 – Jan 2024 <br>
+*Research Assistant* (Undergraduate Research Opportunities Program)
+
+Conducted empirical and theoretical research on Supply Chain Finance, tracking datasets on trade credit and mutual funds. Supervisor: Robert Townsend.
+
+
+## Professional Experience
+
+**European Central Bank (ECB)**, Frankfurt am Main, Germany <br>
+*Trainee, Data Center of the Prices and Costs Division* · Jul 2026 to present
+
+**Bank of Lithuania**, Vilnius, Lithuania <br>
+*Research Assistant, Monetary Policy Division* · Jun 2025 to Aug 2025
+
+Analyzed the impacts of US tariffs on EU goods utilizing trade elasticity and tariff pass-through scenarios. Processed Eurostat and US Census Bureau data. 
+
+**Ministry of Environment of the Republic of Lithuania**, Vilnius, Lithuania <br>
+*Intern, Climate Policy Group* · Jun 2024 to Aug 2024
+
+Produced economic analysis on greenhouse gas emissions and assisted in establishing new econometric climate resilience indicators.
+
+**Ministry of National Defence of the Republic of Lithuania**, Vilnius, Lithuania <br>
+*Intern, Defence Policy Group* · Jun 2023 to Aug 2023
+
+Contributed to the new White Book of defence policy and prepared briefing notes on international political and economic defence choices.
+
+
+## Technical Skills
+
+**Programming and Software:** R (primary), Julia, Stata, Git, Github, Microsoft Office Suite.
+
+**Geospatial Analysis:** QGIS.
+
+**Typesetting and Markup:** LaTeX, Quarto, Markdown.
+
+
+## Empirical Methods
+
+**Identification and Causal Inference:** Instrumental Variables and two-stage least squares, standard and triple difference-in-differences with continuous and binary treatment, dynamic event-study designs, Synthetic DiD (SDiD), and panel data models (OLS with multi-way fixed effects), propensity score matching.
+
+**Time Series:** Vector Autoregression (VAR) models.
+
+**Geospatial and Data Engineering:** Web scraping, construction and validation of spatial datasets, Digital Elevation Model (DEM) terrain analysis (Riley et al. ruggedness index), and processing of large-scale regional and administrative panel data.
+
+
+## Additional
+
+**Languages:** Lithuanian (Native), English (C2), French (C1), Italian (B2), Russian (B1), Turkish (A2).
+
+**Citizenship:** Lithuanian (EU Citizen).
+
+**Volunteering:** Humanitarian Aid Volunteer at the Lithuanian Red Cross and Kaunas Refugee Center (2022–Present); Volunteer at Les Cœurs du Campanin, Menton (2022–2023).
+
+**Selected Instructors:** Esther Duflo (Development Economics); Daron Acemoğlu (Labor Economics); Benjamin Olken (Political Economy); Clément de Chaisemartin (Econometrics); Moritz Schularick (Economic History).

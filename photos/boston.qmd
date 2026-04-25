@@ -1,0 +1,22 @@
+---
+title: ""
+---
+
+<div class="page-title-block">
+# Boston
+</div>
+
+[← Back to Photography](../Photography.qmd)
+
+<div class="photo-grid">
+![](boston/IMG_0608.jpg){.lightbox group="boston"}
+![](boston/IMG_0978.jpg){.lightbox group="boston"}
+![](boston/IMG_0999.jpg){.lightbox group="boston"}
+![](boston/IMG_5209.jpg){.lightbox group="boston"}
+![](boston/IMG_5439.jpg){.lightbox group="boston"}
+![](boston/IMG_5695.jpg){.lightbox group="boston"}
+![](boston/IMG_6162.jpg){.lightbox group="boston"}
+![](boston/IMG_6445.jpg){.lightbox group="boston"}
+![](boston/IMG_6799.jpg){.lightbox group="boston"}
+![](boston/Boston_skyline_2024.jpg){.lightbox group="boston"}
+</div>

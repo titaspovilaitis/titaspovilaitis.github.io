@@ -1,0 +1,318 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@300&family=Merriweather:wght@400;700&family=Inter:wght@300;400&display=swap');
+
+/* ── Navbar layout ── */
+.navbar > .container-fluid {
+  justify-content: space-between !important;
+  flex-wrap: nowrap !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.navbar-brand {
+  order: 1 !important;
+  margin-right: 2rem !important;
+  font-family: 'Alegreya Sans SC', sans-serif !important;
+  font-weight: 300 !important;
+  font-size: 1.45rem !important;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #3a68ac !important;
+}
+
+.navbar {
+  background-color: #e9f0fa !important;
+}
+
+.navbar-nav {
+  order: 2 !important;
+}
+
+.navbar-toggler {
+  order: 3 !important;
+  margin-left: auto !important;
+  margin-right: 0 !important;
+}
+
+/* ── Navbar links ── */
+.navbar-nav .nav-link {
+  font-family: 'Inter', sans-serif !important;
+  font-weight: 300 !important;
+  font-size: 1.0rem !important;
+  color: #444 !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #3a68ac !important;
+}
+
+/* ── Body text ── */
+body {
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  color: #525151;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+/* ── Main content width and margins ── */
+.page-layout-custom {
+  max-width: 1150px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+/* ── Headings ── */
+h1, h2, h3, h4 {
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  font-size: 1.5em;
+  color: #525151;
+}
+
+/* ── Smooth scrolling ── */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ── Page fade-in ── */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Sticky sidebar ── */
+#sidebar {
+  position: sticky;
+  top: 70px;
+  height: fit-content;
+  align-self: flex-start;
+}
+
+/* ── Sidebar photo ── */
+#sidebar img {
+  display: block;
+  margin-top: 50px;
+}
+
+/* ── Sidebar name ── */
+#sidebar h3 {
+  font-family: 'Inter', sans-serif;
+  font-size: 1.1rem;
+  font-weight: 400;
+  color: #1a1a2e;
+  margin-top: 10px;
+  margin-bottom: 2px;
+}
+
+/* ── Sidebar links with icons ── */
+.sidebar-links {
+  margin-top: 14px;
+  line-height: 2.2;
+  font-size: 0.82rem;
+}
+
+.sidebar-links i {
+  width: 18px;
+  color: #555;
+  margin-right: 6px;
+}
+
+.sidebar-links a {
+  color: #222;
+  text-decoration: none;
+}
+
+.sidebar-links a:hover {
+  color: #3a68ac;
+}
+
+/* ── Slide-in menu (small screens only) ── */
+@media (max-width: 992px) {
+  .navbar-collapse {
+    position: fixed !important;
+    top: 0;
+    right: -100%;
+    height: 100vh !important;
+    width: 40% !important;
+    background-color: white !important;
+    box-shadow: -4px 0 20px rgba(0,0,0,0.1);
+    transition: right 0.4s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    z-index: 9999;
+    padding: 60px 30px 30px 30px;
+    flex-direction: column !important;
+    display: flex !important;
+  }
+
+  .navbar-collapse.show {
+    right: 0 !important;
+  }
+
+  .navbar-collapse .navbar-nav {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 16px;
+  }
+
+  .navbar-collapse .nav-link {
+    font-size: 1.1rem !important;
+  }
+}
+
+/* ── Slide panel close button ── */
+#slide-close-btn {
+  display: none;
+}
+
+@media (max-width: 992px) {
+  #slide-close-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 16px;
+    right: 20px;
+    width: 32px;
+    height: 32px;
+    background-color: #3a68ac;
+    color: white;
+    font-size: 1.3rem;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+
+  #slide-close-btn:hover {
+    background-color: #2a5db0;
+  }
+}
+
+/* ── Footer ── */
+.nav-footer {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.8rem;
+  color: #838282;
+  border-top: 1px solid #dbe6f7;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* ── Hyperlinks ── */
+a {
+  color: #3a68ac;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2a5db0;
+  text-decoration: none;
+}
+
+/* ── CV Download Button ── */
+.cv-button {
+  display: inline-block;
+  padding: 0.5rem 1.5rem;
+  background-color: #457dd1;
+  color: white !important;
+  border-radius: 999px;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 400;
+  text-decoration: none;
+  border: 2px solid #457dd1;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.cv-button:hover {
+  background-color: white;
+  color: #457dd1 !important;
+  text-decoration: none;
+}
+
+/* ── Page title underline ── */
+.page-title-block {
+  border-bottom: 1px solid #d0d8e8;
+  padding-bottom: 0rem;
+  margin-bottom: 1rem;
+  margin-top: 0rem;
+}
+
+.page-title-block h1 {
+  margin-top: 0rem;
+}
+
+strong {
+  font-weight: 600;  /* ← increase this, try 800 or 900 for heavier */
+}
+
+
+/* ── Album grid (main photography page) ── */
+.album-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.2rem;
+  margin-top: 2rem;
+}
+
+.album-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 6px;
+  display: block;
+  text-decoration: none;
+}
+
+.album-card img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  display: block;
+  transition: opacity 0.3s ease;
+}
+
+.album-card:hover img {
+  opacity: 0.75;
+}
+
+.album-card span {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 0.6rem 1rem;
+  background: linear-gradient(transparent, rgba(0,0,0,0.55));
+  color: white;
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+  letter-spacing: 0.05em;
+}
+
+/* ── Photo grid (inside album pages) ── */
+.photo-grid {
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr) !important;
+  gap: 0.8rem;
+  margin: 1.5rem 0;
+}
+
+.photo-grid p {
+  display: contents;  /* ← makes Quarto's wrapper p tags invisible to grid */
+}
+
+.photo-grid figure {
+  display: contents !important;
+}
+
+.photo-grid img {
+  width: 100% !important;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 4px;
+  transition: opacity 0.3s ease;
+  cursor: pointer;
+}
+
+.photo-grid img:hover {
+  opacity: 0.85;
+}

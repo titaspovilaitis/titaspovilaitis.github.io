@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Titas Povilaitis"
+  favicon: favicon-32x32.png
+  search: false
+  page-footer:
+    left: "© 2026 Titas Povilaitis"
+    right: "Built with [Quarto](https://quarto.org)"
+  navbar:
+    collapse-below: lg
+    left:
+      - href: index.qmd
+        text: Homepage
+      - CV.qmd
+      - Research.qmd
+      - Coursework.qmd
+      - Photography.qmd
+include-after-body:
+    text: |
+      <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        const collapse = document.querySelector('.navbar-collapse');
+        const closeBtn = document.createElement('button');
+        closeBtn.innerHTML = '&times;';
+        closeBtn.id = 'slide-close-btn';
+        closeBtn.addEventListener('click', function () {
+          collapse.classList.remove('show');
+        });
+        collapse.appendChild(closeBtn);
+      });
+      </script>
+
+
+format:
+  html:
+    theme: cosmo
+    lightbox: true
+    css: styles.css
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+        <link href="https://fonts.googleapis.com/css2?family=Jura:wght@500&family=Merriweather:wght@400;700&family=Inter:wght@300;400&display=swap" rel="stylesheet">

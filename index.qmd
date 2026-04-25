@@ -1,0 +1,44 @@
+---
+title: ""
+format:
+  html:
+    page-layout: custom
+---
+
+:::: {.columns}
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="20%" #sidebar}
+
+![](website.jpg){style="border-radius: 50%; width: 75%; margin-top: 30px;"}
+
+### Titas Povilaitis
+
+<div class="sidebar-links">
+<i class="fa-solid fa-location-dot"></i> Paris  
+<i class="fa-solid fa-building-columns"></i> Sciences Po  
+<i class="fa-solid fa-envelope"></i> [Email](mailto:titas.povilaitis@sciencespo.fr)  
+<i class="fa-brands fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/titas-povilaitis-972489279/)  
+<i class="fa-brands fa-x-twitter"></i> [X (Twitter)](https://x.com/TitasPovilaitis)  
+</div>
+
+:::
+
+::: {.column width="0%"}
+:::
+
+::: {.column width="70%"}
+
+# Sveiki | Hello | Bonjour
+
+I am an applied microeconomist with primary research interests in **development economics**, **political economy**, and **economic history**. I study how historical shocks and institutional design shape long-term economic trajectories, with a particular focus on how these effects are distributed unevenly across space. My current work combines geospatial analysis and causal inference to investigate post-socialist land reforms, exploring how historical property shocks interact with local clientelism to create enduring developmental and political lock-ins.
+
+I am currently completing my Master of Research in Economics at [Sciences Po Paris](https://www.sciencespo.fr/department-economics/en.html), following a B.A. in Economics and Sociology that included an exchange program at [MIT](https://economics.mit.edu/). 
+
+I will be joining the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) as a Trainee in the Data Center of the Prices and Costs Division in July 2026. Previously, I worked as a Research Assistant in the [Bank of Lithuania](https://www.lb.lt/en/), and held policy and analytical roles at the Lithuanian [Ministry of Environment](https://am.lrv.lt/en/) and [Ministry of National Defence](https://kam.lt/en/).
+
+:::
+
+::::

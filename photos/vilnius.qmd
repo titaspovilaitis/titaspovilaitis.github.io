@@ -1,0 +1,22 @@
+---
+title: ""
+---
+
+<div class="page-title-block">
+# Vilnius
+</div>
+
+[← Back to Photography](../Photography.qmd)
+
+<div class="photo-grid">
+![](vilnius/IMG_5507.jpg){.lightbox group="vilnius"}
+![](vilnius/IMG_9574.jpg){.lightbox group="vilnius"}
+![](vilnius/IMG_9463.jpg){.lightbox group="vilnius"}
+![](vilnius/IMG_9195.jpg){.lightbox group="vilnius"}
+![](vilnius/IMG_8623.jpg){.lightbox group="vilnius"}
+![](vilnius/IMG_8630.jpg){.lightbox group="vilnius"}
+![](vilnius/IMG_8910.jpg){.lightbox group="vilnius"}
+![](vilnius/IMG_8848.jpg){.lightbox group="vilnius"}
+![](vilnius/IMG_8784.jpg){.lightbox group="vilnius"}
+![](vilnius/IMG_8676.jpg){.lightbox group="vilnius"}
+</div>

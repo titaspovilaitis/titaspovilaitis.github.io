@@ -1,0 +1,22 @@
+<div class="page-title-block">
+# Research
+</div>
+
+## Works in Progress
+
+**"Sărac Lipit Pământului”: Land Restitution, Political Capture and the Fiscal Zombie in Rural Romania** <br>
+*MRes Thesis, Sciences Po, May 2026. Supervisor: Julia Cagé.* | [Download](Master_Thesis_Draft_POVILAITIS_Titas.pdf)
+
+This paper investigates the long-term economic and political consequences of Romania's 1991 land restitution and its interaction with the 2007 European Union accession shock. I argue that restitution generated a mismatch between newly assigned smallholder property rights and the indivisible, large-scale socialist capital stock inherited from the collectivization era. Using Baseline and Synthetic Difference-in-Differences frameworks based on terrain ruggedness, I demonstrate that this geographic asset mismatch was associated with a severe and persistent decline in mechanized capital across historically fertile plains. Furthermore, I show that post-2007 economic recovery was highly dependent on local institutions: while politically competitive areas successfully adapted through increased rural enterprise, clientelist networks in politically captured counties helped to create a persistent reliance on state subsidies, generating rural "fiscal zombies."
+
+## Policy Papers
+
+**Impact of Tariffs on the European Economy** <br>
+*With Tomas Reichenbachas. Bank of Lithuania Topical Commentary, Monetary Policy Division, August 2025.* | [Download](Topical Commentary on Impact of American Tariffs.pdf)
+
+Motivated by the possibility of shifting US trade strategies and the resulting frictions, this note examines the plausible macroeconomic impacts of US tariffs on European Union goods. Drawing on historical episodes like the 2018 US-China trade tensions, the analysis utilizes empirical trade elasticity proxies and varying tariff pass-through scenarios to quantify potential aggregate export value shocks and subsequent real GDP fluctuations for the European economy. The findings highlight significant heterogeneity in tariff effects across specific product categories and trading partners.
+
+**Different Mandate – Same Action: How Have the ECB and the Fed Differed in their Decisions?** <br>
+*With Tomas Reichenbachas. Bank of Lithuania Policy Note, Monetary Policy Division, August 2025.* | [Download](Note on ECB and Fed approaches to dealing with crises.pdf)
+
+This note explores the monetary policy responses of the European Central Bank (ECB) and the US Federal Reserve during major economic crises over the past two decades. Specifically, it analyzes how differing legal frameworks—the Fed's dual mandate versus the ECB's single price-stability mandate—have shaped their respective interventions. The analysis finds that while underlying objectives often led to convergent actions during the Global Financial Crisis and post-pandemic inflation surges, the ECB's narrower mandate notably constrained its policy flexibility during the 2010-2012 sovereign debt crisis, leading to interest rate hikes despite persistently high unemployment.

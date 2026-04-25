@@ -1,0 +1,38 @@
+<div class="page-title-block">
+# Photography
+</div>
+
+
+<div class="album-grid">
+
+<a href="photos/vilnius.html" class="album-card">
+![](/photos/vilnius/cover.jpg)
+<span>Vilnius</span>
+</a>
+
+<a href="photos/paris.html" class="album-card">
+![](/photos/paris/cover.jpg)
+<span>Paris</span>
+</a>
+
+<a href="photos/boston.html" class="album-card">
+![](/photos/boston/cover.jpg)
+<span>Boston</span>
+</a>
+
+<a href="photos/lviv.html" class="album-card">
+![](/photos/lviv/cover.jpg)
+<span>Lviv</span>
+</a>
+
+<a href="photos/istanbul.html" class="album-card">
+![](/photos/istanbul/cover.jpg)
+<span>Istanbul</span>
+</a>
+
+<a href="photos/mumbai.html" class="album-card">
+![](/photos/mumbai/cover.jpg)
+<span>Mumbai</span>
+</a>
+
+</div>

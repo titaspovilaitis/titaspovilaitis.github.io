@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download my CV"
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research"
+  },
+  {
+    "objectID": "Photography.html",
+    "href": "Photography.html",
+    "title": "Photography",
+    "section": "",
+    "text": "Photography\n\n\n  Vilnius \n  Paris \n  Boston \n  Lviv \n  Istanbul \n  Mumbai"
+  },
+  {
+    "objectID": "Coursework.html",
+    "href": "Coursework.html",
+    "title": "Coursework",
+    "section": "",
+    "text": "Coursework"
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nSciences Po Paris  MRes in Economics (School of Research) · 2024 – 2026 (expected)  Relevant Coursework: PhD-level Microeconomics, Macroeconomics, Econometrics\nMassachusetts Institute of Technology (MIT)  Exchange Program, B.A. in Economics and Sociology · 2023 – 2024\nSciences Po Paris  B.A. in Economics and Sociology · 2021 – 2023 Cum Laude"
+  },
+  {
+    "objectID": "CV.html#research-experience",
+    "href": "CV.html#research-experience",
+    "title": "CV",
+    "section": "Research Experience",
+    "text": "Research Experience\nMRes Thesis, Sciences Po · May 2026  “Sărac Lipit Pământului”: Land Restitution, Political Capture and the Fiscal Zombie in Rural Romania.  Supervisor: Julia Cagé. Jury Member: Ekaterina Zhuravskaya.\nMassachusetts Institute of Technology (MIT), Department of Economics · Sep 2023 – Jan 2024  Research Assistant (Undergraduate Research Opportunities Program)\nConducted empirical and theoretical research on Supply Chain Finance, tracking datasets on trade credit and mutual funds. Supervisor: Robert Townsend."
+  },
+  {
+    "objectID": "CV.html#professional-experience",
+    "href": "CV.html#professional-experience",
+    "title": "CV",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nEuropean Central Bank (ECB), Frankfurt am Main, Germany  Trainee, Data Center of the Prices and Costs Division · Jul 2026 to present\nBank of Lithuania, Vilnius, Lithuania  Research Assistant, Monetary Policy Division · Jun 2025 to Aug 2025\nAnalyzed the impacts of US tariffs on EU goods utilizing trade elasticity and tariff pass-through scenarios. Processed Eurostat and US Census Bureau data.\nMinistry of Environment of the Republic of Lithuania, Vilnius, Lithuania  Intern, Climate Policy Group · Jun 2024 to Aug 2024\nProduced economic analysis on greenhouse gas emissions and assisted in establishing new econometric climate resilience indicators.\nMinistry of National Defence of the Republic of Lithuania, Vilnius, Lithuania  Intern, Defence Policy Group · Jun 2023 to Aug 2023\nContributed to the new White Book of defence policy and prepared briefing notes on international political and economic defence choices."
+  },
+  {
+    "objectID": "CV.html#technical-skills",
+    "href": "CV.html#technical-skills",
+    "title": "CV",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nProgramming and Software: R (primary), Julia, Stata, Git, Github, Microsoft Office Suite.\nGeospatial Analysis: QGIS.\nTypesetting and Markup: LaTeX, Quarto, Markdown."
+  },
+  {
+    "objectID": "CV.html#empirical-methods",
+    "href": "CV.html#empirical-methods",
+    "title": "CV",
+    "section": "Empirical Methods",
+    "text": "Empirical Methods\nIdentification and Causal Inference: Instrumental Variables and two-stage least squares, standard and triple difference-in-differences with continuous and binary treatment, dynamic event-study designs, Synthetic DiD (SDiD), and panel data models (OLS with multi-way fixed effects), propensity score matching.\nTime Series: Vector Autoregression (VAR) models.\nGeospatial and Data Engineering: Web scraping, construction and validation of spatial datasets, Digital Elevation Model (DEM) terrain analysis (Riley et al. ruggedness index), and processing of large-scale regional and administrative panel data."
+  },
+  {
+    "objectID": "CV.html#additional",
+    "href": "CV.html#additional",
+    "title": "CV",
+    "section": "Additional",
+    "text": "Additional\nLanguages: Lithuanian (Native), English (C2), French (C1), Italian (B2), Russian (B1), Turkish (A2).\nCitizenship: Lithuanian (EU Citizen).\nVolunteering: Humanitarian Aid Volunteer at the Lithuanian Red Cross and Kaunas Refugee Center (2022–Present); Volunteer at Les Cœurs du Campanin, Menton (2022–2023).\nSelected Instructors: Esther Duflo (Development Economics); Daron Acemoğlu (Labor Economics); Benjamin Olken (Political Economy); Clément de Chaisemartin (Econometrics); Moritz Schularick (Economic History)."
+  },
+  {
+    "objectID": "Research.html#works-in-progress",
+    "href": "Research.html#works-in-progress",
+    "title": "Research",
+    "section": "Works in Progress",
+    "text": "Works in Progress\n“Sărac Lipit Pământului”: Land Restitution, Political Capture and the Fiscal Zombie in Rural Romania  MRes Thesis, Sciences Po, May 2026. Supervisor: Julia Cagé. | Download\nThis paper investigates the long-term economic and political consequences of Romania’s 1991 land restitution and its interaction with the 2007 European Union accession shock. I argue that restitution generated a mismatch between newly assigned smallholder property rights and the indivisible, large-scale socialist capital stock inherited from the collectivization era. Using Baseline and Synthetic Difference-in-Differences frameworks based on terrain ruggedness, I demonstrate that this geographic asset mismatch was associated with a severe and persistent decline in mechanized capital across historically fertile plains. Furthermore, I show that post-2007 economic recovery was highly dependent on local institutions: while politically competitive areas successfully adapted through increased rural enterprise, clientelist networks in politically captured counties helped to create a persistent reliance on state subsidies, generating rural “fiscal zombies.”"
+  },
+  {
+    "objectID": "Research.html#policy-papers",
+    "href": "Research.html#policy-papers",
+    "title": "Research",
+    "section": "Policy Papers",
+    "text": "Policy Papers\nImpact of Tariffs on the European Economy  With Tomas Reichenbachas. Bank of Lithuania Topical Commentary, Monetary Policy Division, August 2025. | Download\nMotivated by the possibility of shifting US trade strategies and the resulting frictions, this note examines the plausible macroeconomic impacts of US tariffs on European Union goods. Drawing on historical episodes like the 2018 US-China trade tensions, the analysis utilizes empirical trade elasticity proxies and varying tariff pass-through scenarios to quantify potential aggregate export value shocks and subsequent real GDP fluctuations for the European economy. The findings highlight significant heterogeneity in tariff effects across specific product categories and trading partners.\nDifferent Mandate – Same Action: How Have the ECB and the Fed Differed in their Decisions?  With Tomas Reichenbachas. Bank of Lithuania Policy Note, Monetary Policy Division, August 2025. | Download\nThis note explores the monetary policy responses of the European Central Bank (ECB) and the US Federal Reserve during major economic crises over the past two decades. Specifically, it analyzes how differing legal frameworks—the Fed’s dual mandate versus the ECB’s single price-stability mandate—have shaped their respective interventions. The analysis finds that while underlying objectives often led to convergent actions during the Global Financial Crisis and post-pandemic inflation surges, the ECB’s narrower mandate notably constrained its policy flexibility during the 2010-2012 sovereign debt crisis, leading to interest rate hikes despite persistently high unemployment."
+  },
+  {
+    "objectID": "Coursework.html#selected-term-papers",
+    "href": "Coursework.html#selected-term-papers",
+    "title": "Coursework",
+    "section": "Selected Term Papers",
+    "text": "Selected Term Papers\n“Înainte spre socialism!”: The Economic Legacy of Agricultural Collectivization across Romania  Research Proposal. | Download\nWritten for Economic History instructed by Paul Bouscasse and Moritz Schularick. This research proposal outlines an identification strategy to evaluate the long-term developmental and political consequences of Romania’s forced agricultural collectivization (1949–1962). The proposed methodology relies on digitizing novel archival data of peasant resistance and local bureaucratic fervor to isolate the causal impact of the historical shock, aiming to test theories of historical persistence and modern voter clientelism.\nStashing and Reputation: Social Norms in Remittance-Based Intra-Household Bargaining  With Prachi Agarwal and Viraj Mulik. | Download\nPrepared for Microeconomics II: Game Theory course instructed by Emeric Henry. We developed a theoretical model of a finitely repeated game between a remittance-sending husband, who works in a different location, and a wife with asymmetric information. Incorporating reputation effects and grim-trigger punishment strategies, we identified a unique Perfect Bayesian Equilibrium, before extending to an infinitely repeated game to analyze the emergence of distinct household norms.\nMigration Policy of the Republic of Ireland and its Impact on Labor Market Outcomes  With Michelle Alicia Jordan. | Download\nSubmitted for Labor Markets in Practice course instructed by Moshe Buchinsky. We evaluated the short-run sectoral impact of the Ukrainian refugee inflow into Ireland. Leveraging a difference-in-differences with continuous treatment framework, we documented wage compression in high-exposure sectors, while average weekly hours worked remained stable, suggesting labor market adjustments occurred primarily through wages."
+  },
+  {
+    "objectID": "Coursework.html#independent-empirical-projects",
+    "href": "Coursework.html#independent-empirical-projects",
+    "title": "Coursework",
+    "section": "Independent Empirical Projects",
+    "text": "Independent Empirical Projects\nManagement Training and Firm Performance: Evidence from a Sponsored Program  Independent Data Science and Econometrics Project. | Download\nThis independent empirical exercise estimates the causal effect of a managerial training program on small firm productivity. Starting with raw administrative data on over 55,000 firms from 2010 to 2019, I conducted extensive data processing to construct a clean, balanced panel. Using a difference-in-differences with binary treatment design, the analysis finds that voluntary training participation is associated with a robust 41.8% increase in revenue per worker across multiple sectors, verified by parallel pre-treatment trends."
+  },
+  {
+    "objectID": "Lviv.html",
+    "href": "Lviv.html",
+    "title": "Photography",
+    "section": "",
+    "text": "Photography"
+  },
+  {
+    "objectID": "Istanbul.html",
+    "href": "Istanbul.html",
+    "title": "Photography",
+    "section": "",
+    "text": "Photography"
+  },
+  {
+    "objectID": "Paris.html",
+    "href": "Paris.html",
+    "title": "Photography",
+    "section": "",
+    "text": "Photography"
+  },
+  {
+    "objectID": "Boston.html",
+    "href": "Boston.html",
+    "title": "Photography",
+    "section": "",
+    "text": "Photography"
+  },
+  {
+    "objectID": "photos/paris.html",
+    "href": "photos/paris.html",
+    "title": "Paris",
+    "section": "",
+    "text": "Paris\n\n← Back to Photography"
+  },
+  {
+    "objectID": "photos/lviv.html",
+    "href": "photos/lviv.html",
+    "title": "Lviv",
+    "section": "",
+    "text": "Lviv\n\n← Back to Photography"
+  },
+  {
+    "objectID": "photos/istanbul.html",
+    "href": "photos/istanbul.html",
+    "title": "Istanbul",
+    "section": "",
+    "text": "Istanbul\n\n← Back to Photography"
+  },
+  {
+    "objectID": "photos/boston.html",
+    "href": "photos/boston.html",
+    "title": "Boston",
+    "section": "",
+    "text": "Boston\n\n← Back to Photography"
+  },
+  {
+    "objectID": "photos/mumbai.html",
+    "href": "photos/mumbai.html",
+    "title": "Mumbai",
+    "section": "",
+    "text": "Mumbai\n\n← Back to Photography"
+  },
+  {
+    "objectID": "photos/vilnius.html",
+    "href": "photos/vilnius.html",
+    "title": "Vilnius",
+    "section": "",
+    "text": "Vilnius\n\n← Back to Photography"
+  }
+]

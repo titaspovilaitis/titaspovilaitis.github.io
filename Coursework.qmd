@@ -1,0 +1,28 @@
+<div class="page-title-block">
+# Coursework
+</div>
+
+
+## Selected Term Papers
+
+**"Înainte spre socialism!": The Economic Legacy of Agricultural Collectivization across Romania** <br>
+*Research Proposal.* | [Download](Povilaitis_Proposal.pdf)
+
+Written for *Economic History* instructed by *Paul Bouscasse* and *Moritz Schularick*. This research proposal outlines an identification strategy to evaluate the long-term developmental and political consequences of Romania’s forced agricultural collectivization (1949–1962). The proposed methodology relies on digitizing novel archival data of peasant resistance and local bureaucratic fervor to isolate the causal impact of the historical shock, aiming to test theories of historical persistence and modern voter clientelism.
+
+**Stashing and Reputation: Social Norms in Remittance-Based Intra-Household Bargaining** <br>
+*With Prachi Agarwal and Viraj Mulik.* | [Download](Microeconomics_game_theory_project._Agarwal_Mulik_Povilaitis.pdf)
+
+Prepared for *Microeconomics II: Game Theory* course instructed by *Emeric Henry*. We developed a theoretical model of a finitely repeated game between a remittance-sending husband, who works in a different location, and a wife with asymmetric information. Incorporating reputation effects and grim-trigger punishment strategies, we identified a unique Perfect Bayesian Equilibrium, before extending to an infinitely repeated game to analyze the emergence of distinct household norms.
+
+**Migration Policy of the Republic of Ireland and its Impact on Labor Market Outcomes** <br>
+*With Michelle Alicia Jordan.* | [Download](Final_paper._Michelle_Jordan_and_Titas_Povilaitis.pdf)
+
+Submitted for *Labor Markets in Practice* course instructed by *Moshe Buchinsky*. We evaluated the short-run sectoral impact of the Ukrainian refugee inflow into Ireland. Leveraging a difference-in-differences with continuous treatment framework, we documented wage compression in high-exposure sectors, while average weekly hours worked remained stable, suggesting labor market adjustments occurred primarily through wages.
+
+## Independent Empirical Projects
+
+**Management Training and Firm Performance: Evidence from a Sponsored Program** <br>
+*Independent Data Science and Econometrics Project.* | [Download](Independent_Empirical_Project_Povilaitis_Titas.pdf)
+
+This independent empirical exercise estimates the causal effect of a managerial training program on small firm productivity. Starting with raw administrative data on over 55,000 firms from 2010 to 2019, I conducted extensive data processing to construct a clean, balanced panel. Using a difference-in-differences with binary treatment design, the analysis finds that voluntary training participation is associated with a robust 41.8% increase in revenue per worker across multiple sectors, verified by parallel pre-treatment trends.

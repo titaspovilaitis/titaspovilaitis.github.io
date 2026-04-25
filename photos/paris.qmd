@@ -1,0 +1,22 @@
+---
+title: ""
+---
+
+<div class="page-title-block">
+# Paris
+</div>
+
+[← Back to Photography](../Photography.qmd)
+
+<div class="photo-grid">
+![](paris/IMG_3201.jpg){.lightbox group="paris"}
+![](paris/IMG_3365.jpg){.lightbox group="paris"}
+![](paris/IMG_3488.jpg){.lightbox group="paris"}
+![](paris/IMG_3569.jpg){.lightbox group="paris"}
+![](paris/IMG_7506.jpg){.lightbox group="paris"}
+![](paris/IMG_7719.jpg){.lightbox group="paris"}
+![](paris/IMG_7858.jpg){.lightbox group="paris"}
+![](paris/IMG_7914.jpg){.lightbox group="paris"}
+![](paris/IMG_7930.jpg){.lightbox group="paris"}
+![](paris/IMG_9280.jpg){.lightbox group="paris"}
+</div>
