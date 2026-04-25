@@ -338,8 +338,10 @@ strong {
     margin-bottom: 1.5rem;
   }
 
-  /* ── Center photo on mobile ── */
+  /* ── Photo size and centering on mobile ── */
   #sidebar img {
+    width: 50% !important;
+    margin-top: 20px !important;
     margin-left: auto !important;
     margin-right: auto !important;
   }
@@ -348,6 +350,12 @@ strong {
   .sidebar-links {
     text-align: left;
     display: inline-block;
+  }
+
+  /* ── Homepage content padding on mobile ── */
+  .page-layout-custom .column {
+    padding-left: 1.2rem !important;
+    padding-right: 1.2rem !important;
   }
 
   /* ── Photo grid 2 columns instead of 3 on mobile ── */
