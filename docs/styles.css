@@ -318,7 +318,6 @@ strong {
 }
 
 @media (max-width: 768px) {
-
   /* ── Stack columns vertically on mobile ── */
   .columns {
     flex-direction: column !important;
@@ -373,4 +372,8 @@ strong {
     font-size: 1.1rem !important;
   }
 
+  /* ── Wider slide panel on small phones ── */
+  .navbar-collapse {
+    width: 65% !important;
+  }
 }
