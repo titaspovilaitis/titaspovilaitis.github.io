@@ -35,4 +35,9 @@
 <span>Mumbai</span>
 </a>
 
+<a href="photos/bretagne.html" class="album-card">
+![](/photos/bretagne/cover.jpg)
+<span>Bretagne</span>
+</a>
+
 </div>

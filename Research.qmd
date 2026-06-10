@@ -4,10 +4,10 @@
 
 ## Works in Progress
 
-**"Sărac Lipit Pământului”: Land Restitution, Political Capture and the Fiscal Zombie in Rural Romania** <br>
-*MRes Thesis, Sciences Po, May 2026. Supervisor: Julia Cagé.* | [Download](Master_Thesis_Draft_POVILAITIS_Titas.pdf)
+**Land Restitution, Political Capture and the Fiscal Zombie in Rural Romania** <br>
+*MRes Thesis, Sciences Po, May 2026. Supervisor: Julia Cagé.* | [Download](Master_Thesis_POVILAITIS_Titas.pdf)
 
-This paper investigates the long-term economic and political consequences of Romania's 1991 land restitution and its interaction with the 2007 European Union accession shock. I argue that restitution generated a mismatch between newly assigned smallholder property rights and the indivisible, large-scale socialist capital stock inherited from the collectivization era. Using Baseline and Synthetic Difference-in-Differences frameworks based on terrain ruggedness, I demonstrate that this geographic asset mismatch was associated with a severe and persistent decline in mechanized capital across historically fertile plains. Furthermore, I show that post-2007 economic recovery was highly dependent on local institutions: while politically competitive areas successfully adapted through increased rural enterprise, clientelist networks in politically captured counties helped to create a persistent reliance on state subsidies, generating rural "fiscal zombies."
+This paper investigates the long-term economic and political consequences of Romania's 1991 land restitution and its interaction with the 2007 European Union accession shock. I argue that restitution generated a mismatch between newly assigned smallholder property rights and the indivisible, large-scale socialist capital stock inherited from the collectivization era. Using baseline and synthetic difference-in-differences frameworks based on terrain ruggedness, I demonstrate that this geographic asset mismatch was associated with a severe and persistent decline in mechanized capital across historically fertile plains. Furthermore, I show that post-2007 economic recovery was highly dependent on local institutions: while politically competitive areas successfully adapted through increased rural enterprise, clientelist networks in politically captured counties helped to create a persistent reliance on state subsidies, generating rural "fiscal zombies."
 
 ## Policy Papers
 
