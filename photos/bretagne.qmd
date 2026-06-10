@@ -18,7 +18,7 @@ title: ""
 ![](bretagne/IMG_3520.jpg){.lightbox group="bretagne"}
 ![](bretagne/IMG_3656.jpg){.lightbox group="bretagne"}
 ![](bretagne/IMG_4100.jpg){.lightbox group="bretagne"}
-![](bretagne/IMG.4434.jpg){.lightbox group="bretagne"}
+![](bretagne/IMG_4434.jpg){.lightbox group="bretagne"}
 ![](bretagne/IMG_5039.jpg){.lightbox group="bretagne"}
-![](bretagne/IMG.5231.jpg){.lightbox group="bretagne"}
+![](bretagne/IMG_5231.jpg){.lightbox group="bretagne"}
 </div>
