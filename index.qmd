@@ -17,9 +17,9 @@ format:
 ### Titas Povilaitis
 
 <div class="sidebar-links">
-<i class="fa-solid fa-location-dot"></i> Paris  
-<i class="fa-solid fa-building-columns"></i> Sciences Po  
-<i class="fa-solid fa-envelope"></i> [Email](mailto:titas.povilaitis@sciencespo.fr)  
+<i class="fa-solid fa-location-dot"></i> Frankfurt am Main  
+<i class="fa-solid fa-building-columns"></i> European Central Bank  
+<i class="fa-solid fa-envelope"></i> [Email](mailto:titaspo@gmail.com)  
 <i class="fa-brands fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/titas-povilaitis-972489279/)  
 <i class="fa-brands fa-x-twitter"></i> [X (Twitter)](https://x.com/TitasPovilaitis)  
 </div>
