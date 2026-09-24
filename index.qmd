@@ -10,7 +10,7 @@ format:
 ::: {.column width="5%"}
 :::
 
-::: {.column width="20%" #sidebar}
+::: {.column width="25%" #sidebar}
 
 ![](website.jpg){style="border-radius: 50%; width: 75%; margin-top: 30px;"}
 
@@ -29,9 +29,9 @@ format:
 ::: {.column width="0%"}
 :::
 
-::: {.column width="70%"}
+::: {.column width="65%"}
 
-# Sveiki | Hello | Bonjour
+# Sveiki | Hello
 
 I am an applied microeconomist with primary research interests in **development economics**, **political economy**, and **economic history**. I study how historical shocks and institutional design shape long-term economic trajectories, with a particular focus on how these effects are distributed unevenly across space. My current work combines geospatial analysis and causal inference to investigate post-socialist land reforms, exploring how historical property shocks interact with local clientelism to create enduring developmental and political lock-ins.
 
