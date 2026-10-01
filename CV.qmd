@@ -7,7 +7,8 @@
 ## Education
 
 **Sciences Po Paris** <br>
-*MRes in Economics (School of Research)* · 2024 – 2026 <br>
+*MRes in Economics (School of Research)* · 2024 – 2026 
+*Distinction* <br>
 Relevant Coursework: PhD-level Microeconomics, Macroeconomics, Econometrics
 
 **Massachusetts Institute of Technology (MIT)** <br>
@@ -20,7 +21,7 @@ Relevant Coursework: PhD-level Microeconomics, Macroeconomics, Econometrics
 
 ## Research Experience
 
-**MRes Thesis, Sciences Po** · May 2026 <br>
+**MRes Thesis, Sciences Po** · May 2026 *Best Master Thesis in Economics Award*<br>
 *Land Restitution, Political Capture and the Fiscal Zombie in Rural Romania* <br>
 Supervisor: Julia Cagé. Jury Member: Ekaterina Zhuravskaya.
 
@@ -34,6 +35,8 @@ Conducted empirical and theoretical research on Supply Chain Finance, tracking d
 
 **European Central Bank (ECB)**, Frankfurt am Main, Germany <br>
 *Trainee, Data Center of the Prices and Costs Division* · Jul 2026 to present
+
+Executed code-based valuation models, developed real-time data visualization dashboards, and prepared quantitative analytical materials for Governing Council meetings.
 
 **Bank of Lithuania**, Vilnius, Lithuania <br>
 *Research Assistant, Monetary Policy Division* · Jun 2025 to Aug 2025

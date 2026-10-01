@@ -4,6 +4,13 @@
 
 ## Works in Progress
 
+**Land Restitution, Asset Mismatch and Political Capture in Rural Romania** <br>
+*Working Paper, 2026.* | Download
+
+This paper examines how deep-rooted institutional legacies moderate regional responses to modern economic transitions. Building on the context of Romania's 1991 agricultural decollectivization and 2007 EU accession, I analyze the persistent asset mismatch resulting from the distribution of fragmented property rights over indivisible capital. To isolate the role of historical institutions, the empirical strategy employs split-sample and synthetic difference-in-differences (SDiD) designs, evaluating the geographic penalty within the respective boundaries of the former Habsburg Empire and the Old Kingdom. The estimates suggest a distinct divergence along the 1914 border. Following EU integration, the Habsburg Plains exhibited greater structural resilience, whereas the Old Kingdom Plains demonstrated patterns consistent with entrenched political clientelism and demographic stagnation. Ultimately, the research suggests that historical state capacity may affect how regions absorb and adapt to geographic constraints.
+
+## Master Thesis
+
 **Land Restitution, Political Capture and the Fiscal Zombie in Rural Romania** <br>
 *MRes Thesis, Sciences Po, May 2026. Supervisor: Julia Cagé.* | [Download](Master_Thesis_POVILAITIS_Titas.pdf)
 
