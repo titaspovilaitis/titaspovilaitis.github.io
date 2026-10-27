@@ -1,6 +1,8 @@
 <div class="page-title-block">
-# 
+# Research
 </div>
+
+<br> <br>
 
 ## Research Proposals
 
